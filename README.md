@@ -1,4 +1,4 @@
-# an-lise-emissoes-brasil
+# analise-emissoes-brasil
 
 Análise de Emissões de Gases de Efeito Estufa no Brasil (1970-2021)
 
